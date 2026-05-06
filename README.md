@@ -1,6 +1,6 @@
 # UberEatsApp – Documentación del Proyecto   
 
-##Gutierrez Cepeda Andres 23211009
+Gutierrez Cepeda Andres 23211009
 
 ## Descripción General
 UberEatsApp es una aplicación web de pedidos de comida a domicilio, desarrollada con Next.js, React y TypeScript. Permite a los usuarios explorar restaurantes, ver menús, agregar productos al carrito y realizar pedidos, siguiendo el ciclo de vida de un pedido con diferentes estados.
