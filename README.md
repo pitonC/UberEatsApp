@@ -102,8 +102,24 @@ stateDiagram-v2
 
 ---
 
-## Autor
-- Usuario de GitHub: pitonC
+## Capturas
+<img width="2313" height="1281" alt="image" src="https://github.com/user-attachments/assets/6600cc79-f855-4396-aab5-80dcfd697419" />
+
+<img width="1701" height="1250" alt="image" src="https://github.com/user-attachments/assets/5208fb12-0a79-4e7c-bafe-be27cff9536b" />
+
+<img width="2173" height="1403" alt="image" src="https://github.com/user-attachments/assets/434c7783-2c1a-4061-8d0b-fd2f2bfa3a3c" />
+
+<img width="1575" height="1351" alt="image" src="https://github.com/user-attachments/assets/a40cfb22-d103-4f51-927d-3f56d781fb60" />
+<img width="1636" height="912" alt="image" src="https://github.com/user-attachments/assets/37f9f31c-33c5-416d-8720-55d86e574380" />
+<img width="1621" height="975" alt="image" src="https://github.com/user-attachments/assets/df605311-439f-4cc9-96fc-a356e94ee9ef" />
+<img width="1646" height="1288" alt="image" src="https://github.com/user-attachments/assets/eefe5c8c-a9fb-479a-9e8b-4a18196ffc0f" />
+
+
+
+
+
+
+
 
 ---
 
